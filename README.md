@@ -1,1 +1,2 @@
 # python-tip-calculator
+This is a simple tip calculator project used to refresh python skills. It will ask for the total bill amount and the total number of people. Then it will calculate the tip then say how much each person should pay
